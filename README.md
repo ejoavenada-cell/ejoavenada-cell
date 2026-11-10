@@ -1,7 +1,7 @@
 # Hi, I'm Erick! 👋
 
 **🎓 BS Computer Engineering | Rizal Technological University**  
-**💻 Aspiring Full Stack Developer**  
+**💻 Software Developer**  
 **💼 Software Developer Intern at I-Asiatic Innovation Phils. Inc**  
 **🇵🇭 Philippines**
 
